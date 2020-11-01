@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.thechocolatestore.com/");
+header("Location: https://www.contractoressentials.com.au/safety-gloves/");
 die();
 ?>
